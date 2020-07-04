@@ -1,2 +1,2 @@
 # edgeleadger
-this website is a course project to just lean.
+this website is a course project to just learn.
